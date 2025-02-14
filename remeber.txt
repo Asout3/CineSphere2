@@ -1,0 +1,28 @@
+DONE -- remeber to add the season name before the epsode name like to know which season are they so like don't forget it.
+DONE  -- we can make like the epsoid and the seasons like scrol down like rather than making it like way long we can like make it 
+down like the css shit like the season and epsoid list we can make it like scrol down on its dev SO MAKE SURE TAHT IS DONE.
+______ --- so like we got make the contact us more appealing like the margin and the contact us and make the whole page so ya.
+______ --- MAIN MAIN NOTICE NOTICE ( MAKE THE MEDIA QUERY MORE APPEALING LIKE EVERY THING MAKE EVERY DAMN THING WORK AND MORE APPEALING).
+______ --- try like differnt bg and like theme. 
+______ --- create a logo.
+______ --- organize the files like components and shits like that.
+DONE --- and we can make like the genra at this time it only give like the movies only like the english movies but i got like
+creat a data like including ( series movie and Englis movie ) in javascript so we can make the genera shit so when we call the genera
+we can get like all the movies.
+_____ ---- we will be relaseing movies.
+DONE ---- so like the mainseries the overflow is scrol type shit is working but we got to improve it so like.
+_____ ---- change the font  (I GOT TO LIKE MAKE IT LIKE THE WAY IT WAS BEFORE BUT IN A BETTER WAY LIKE SMALLER AND LITTLE BIT SIMPLER)
+
+  OTHER THAN THE HOME LIKE THE GENERA AND OTHER SHIT MUST ALSO BE DONE
+
+
+
+
+
+                          ************//--------\\***********
+                           
+
+                        THEN I WILL TEST IT AND WE WILL RELASE IT
+                        
+
+                    **********//---------------------\\**************
