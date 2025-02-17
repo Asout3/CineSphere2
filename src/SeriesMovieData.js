@@ -1,4 +1,4 @@
-import BB from './SeriesImages/BB.jpg';
+0import BB from './SeriesImages/BB.jpg';
 
 const SeriesMovieData = [
   {
@@ -60,12 +60,12 @@ const SeriesMovieData = [
         episodes: [
           { id: 401, name: "Episode 1 - Box Cutter", description: "Walt and Jesse anxiously wait to see what their drug lord boss, Gus, will do next. Meanwhile, Skyler desperately searches for clues to Walt's activities, while Hank continues his slow, painful rehab.", videoUrl: "https://drive.google.com/file/d/1-A46IdSDekFArnC9upIyc8hu2CFnfkjy/preview"},
           { id: 402, name: "Episode 2 - Thirty-Eight Snub", description: "Walt prepares his defence against Gus, as Jesse copes by reviving his friendship with Badger and Skinny Pete. Meanwhile, as Skyler hatches a scheme of her own, her sister Marie struggles to deal with Hank's deep depression.", videoUrl: "https://drive.google.com/file/d/10kBQqICD8yJWkwiXdkWDDy8fqIzKXOFo/preview"},
-          { id: 401, name: "Episode 1 - ", description: "", videoUrl: ""},
-          { id: 401, name: "Episode 1 - ", description: "", videoUrl: ""},
-          { id: 401, name: "Episode 1 - ", description: "", videoUrl: ""},
-          { id: 401, name: "Episode 1 - ", description: "", videoUrl: ""},
-          { id: 401, name: "Episode 1 - ", description: "", videoUrl: ""},
-          { id: 401, name: "Episode 1 - ", description: "", videoUrl: ""},
+          { id: 403, name: "Episode 3 - ", description: "", videoUrl: "https://drive.google.com/file/d/10taZZuV4SY8RvXVe66Szg7kZronZJjHg/preview"},
+          { id: 404, name: "Episode 4 - ", description: "", videoUrl: "https://drive.google.com/file/d/10wAkkDf17FQFM5Vz21V6nJvsCNbFoX16/preview"},
+          { id: 405, name: "Episode 5 - ", description: "", videoUrl: "https://drive.google.com/file/d/116tOE-JVuvsi0fcu67joqWq6T2LYSNG0/preview"},
+          { id: 406, name: "Episode 6 - ", description: "", videoUrl: "https://drive.google.com/file/d/11Km2F8gPobMq67yoP2L5i2TN_YWO9TOh/preview"},
+          { id: 407, name: "Episode 7 - ", description: "", videoUrl: "https://drive.google.com/file/d/11W1G5puF_zP2tNUK8zEuZ82FUgcvDuRc/preview"},
+          { id: 408, name: "Episode 8 - ", description: "", videoUrl: "https://drive.google.com/file/d/11bSxxcmS0fWfAy1EmK0E5zgbEDThAZrL/preview"},
           { id: 401, name: "Episode 1 - ", description: "", videoUrl: ""},
           { id: 401, name: "Episode 1 - ", description: "", videoUrl: ""},
           { id: 401, name: "Episode 1 - ", description: "", videoUrl: ""},
