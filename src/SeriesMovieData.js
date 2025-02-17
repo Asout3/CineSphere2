@@ -1,4 +1,4 @@
-0import BB from './SeriesImages/BB.jpg';
+import BB from './SeriesImages/BB.jpg';
 
 const SeriesMovieData = [
   {
