@@ -70,10 +70,28 @@ const SeriesMovieData = [
           { id: 410, name: "Episode 10 - ", description: "", videoUrl: "https://drive.google.com/file/d/11rWU7u1pi5dQaUFeGQ1fO1_FogP-LJWD/preview"},
           { id: 411, name: "Episode 11 - ", description: "", videoUrl: "https://drive.google.com/file/d/1258ZyVsVW0ll0Yu8_5ZycvaH2EPbWUJW/preview"},
           { id: 412, name: "Episode 12 - ", description: "", videoUrl: "https://drive.google.com/file/d/126vTrUtoG6CFtogapGYvR1Kh7m-E_06R/preview"},
+        ],
+      },
+       {
+        seasonNumber: 5,
+        episodes: [
           
-
-          
-
+ { id: 501, name: "Episode 1", description: "Description of Episode ", videoUrl: "https://drive.google.com/file/d/13SYpVmuFqJFOPz5RpfXsx-Sos8wsygK5/preview" },
+ { id: 502, name: "Episode 2", description: "Description of Episode 1", videoUrl: "https://drive.google.com/file/d/13S2F4Li0LiMT9zMaCEXzRrTdudva3WSA/preview" },
+ { id: 503, name: "Episode 3", description: "Description of Episode 1", videoUrl: "https://drive.google.com/file/d/13R0tftWUbFoxsQkApnHwKLH-1Oh5nVMc/preview" },
+ { id: 504, name: "Episode 4", description: "Description of Episode 1", videoUrl: "https://drive.google.com/file/d/13Q7YPU4IU79TfZTLCzsmyj1rPwzSFuku/preview" },
+ { id: 505, name: "Episode 5", description: "Description of Episode 1", videoUrl: "https://drive.google.com/file/d/13OVX-wh6zISXrtXEH4yJwV0YFWGsxUYu/preview" },
+ { id: 506, name: "Episode 6", description: "Description of Episode 1", videoUrl: "https://drive.google.com/file/d/13ao20lQv2BdtGYjLoU2cIqSvzUDKECzG/preview" },
+ { id: 507, name: "Episode 7", description: "Description of Episode 1", videoUrl: "https://drive.google.com/file/d/16nZ4ZVKRr_vM51_DsOKW_3aCm0EzHdN9/preview" },
+ { id: 508, name: "Episode 8", description: "Description of Episode 1", videoUrl: "https://drive.google.com/file/d/13WPSbX4q8Cp9HfOQzQocJLiOZ1JsVk3b/preview" },
+ { id: 509, name: "Episode 9", description: "Description of Episode 1", videoUrl: "https://drive.google.com/file/d/16uAtzGzQG6DlTLllDh_J6LLow3aveXaV/preview" },
+ { id: 510, name: "Episode 10", description: "Description of Episode 1", videoUrl: "https://drive.google.com/file/d/16zidXJvFhW8JWqew4Co_MJqhQPxYk3cZ/preview" },
+ { id: 511, name: "Episode 1", description: "Description of Episode 1", videoUrl: "url3" },
+ { id: 512, name: "Episode 1", description: "Description of Episode 1", videoUrl: "url3" },
+ { id: 513, name: "Episode 1", description: "Description of Episode 1", videoUrl: "url3" },
+ { id: 514, name: "Episode 1", description: "Description of Episode 1", videoUrl: "url3" },
+ { id: 515, name: "Episode 1", description: "Description of Episode 1", videoUrl: "url3" },
+ { id: 516, name: "Episode 1", description: "Description of Episode 1", videoUrl: "url3" },
         ],
       },
     ],
