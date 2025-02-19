@@ -14,6 +14,7 @@ import MoreAmh from './Pages/MoreAmh';
 import MoreSer from './Pages/MoreSer';
 import MoreMov from './Pages/MoreMov';
 import GenSer from './Pages/GenSer';
+import NotFound from './Pages/NotFound';
 
 const Links = () => {
   return (
@@ -34,6 +35,7 @@ const Links = () => {
         <Route path="/series/:Sname/season/:seasonNumber/episode/:episodeId" element={<EpisodeDetails />} />
         <Route path="/AmharicMovie/:id" element={<WatchAmh />} />
         <Route path="/movie/:id" element={<Watch />} />
+<Route path="*" element={<NotFound />} />
       </Routes>
     </BrowserRouter>
   );
