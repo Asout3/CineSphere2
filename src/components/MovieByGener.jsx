@@ -35,7 +35,7 @@ const MoviesByGenre = () => {
   <h2 className="ml-auto">
     <Link to="/Gener/Series">
       <button className="text-white border-2 border-white rounded px-4 py-2 hover:bg-white hover:text-black transition-all">
-        Halo
+      filter Series Movie
       </button>
     </Link>
   </h2>
