@@ -17,9 +17,9 @@ const WatchAmh = () => {
   return (
     <>
     <HomeNav />
-    <div className="border-4 bg-gray-900/50 m-10 mx-3 sm:mx-16 p-5">
-        <div className="border-2 boder-[rgba(255,255,255,0.16)] m-5 p-2">
-          <strong>This page is {movie.name}</strong>
+    <div className="border-4 bg-gray-900/50 m-10 mx-3 sm:mx-16 p-5 rounded-3xl">
+        <div className="border-2 boder-[rgba(255,255,255,0.16)] m-5 p-2 rounded-md">
+          <strong>{movie.name}</strong>
         </div>
         <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
           <iframe
@@ -31,7 +31,7 @@ const WatchAmh = () => {
           ></iframe>
           <div className="absolute top-0 left-0 w-full h-full bg-transparent pointer-events-none"></div>
         </div>
-        <div className='border-2 bg-gray-900/50 m-5 p-5 text-center text-white tracking-wide '>
+        <div className='border-2 bg-gray-900/50 m-5 p-5 text-center text-white tracking-wide rounded-md'>
           <h1>Title: {movie.name}</h1>
         </div>
       </div>
