@@ -22,8 +22,8 @@ const EpisodeDetails = ({ movie }) => {
     return (
         <>
         <HomeNav />
-            <div className="border-4  m-10 mx-3 sm:mx-16 p-5 bg-gray-900/50">
-                <div className="border-2  m-5 p-2 text-white">
+            <div className="border-4  m-10 mx-3 sm:mx-16 p-5 bg-gray-900/50 rounded-3xl">
+                <div className="border-2  m-5 p-2 text-white rounded-md">
                     <strong>{Sname}</strong>
                 </div>
                 <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
@@ -36,7 +36,7 @@ const EpisodeDetails = ({ movie }) => {
                         title={episode.name}
                     ></iframe>
                 </div>
-                <div className='border-2 border-white m-5 p-5 text-center bg-gray-900/50 text-white tracking-wide'>
+                <div className='border-2 border-white m-5 p-5 text-center bg-gray-900/50 text-white tracking-wide rounded-md'>
                     <h1>Title: Season {season.seasonNumber} - {episode.name}</h1><br></br>
                     <h1>Description: {episode.description}</h1><br></br>
                     
