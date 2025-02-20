@@ -32,7 +32,7 @@ const GenSerC = () => {
 
   <h2 className="ml-auto">
     <Link to="/Gener">
-      <button className="text-white border-2 border-white rounded px-4 py-2 hover:bg-white hover:text-black transition-all">
+      <button className="text-white border-2 border-white rounded px-4 py-2 ">
         filter Movie
       </button>
     </Link>
