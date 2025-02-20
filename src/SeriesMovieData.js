@@ -101,7 +101,7 @@ const SeriesMovieData = [
     id: 2,
     Sname: "Behind her Eyes",  // Corrected typo here
     Genre: "Crime",  // Corrected typo here
-    img: haha,
+    img: BB,
     Seasons: [
       {
         seasonNumber: 1,
