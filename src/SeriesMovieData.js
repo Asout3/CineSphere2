@@ -129,8 +129,8 @@ const SeriesMovieData = [
           { id: 205, name: "Episode 5 - Blisters and Bedrock", description: "Vi awakens to surprising news; an unsettling reunion isn't what it seems; Caitlyn uncovers the origins of Shimmer.", videoUrl: "https://drive.google.com/file/d/1CNbI4-oKvWuipEviGRrDrzkUD2i6y9Qc/preview" },
           { id: 206, name: "Episode 6 - The Message Hidden Within the Pattern", description: "Healing comes from a familiar face - in an unfamiliar place. A stunning betrayal threatens to change countless lives.", videoUrl: "https://drive.google.com/file/d/1CQwvR_ln0rSAH3KA9p5k8rU3DOUZ68Xc/preview" },
           { id: 207, name: "Episode 7 - Pretend Like It's the First Time", description: "A moment of darkness, a moment of light, and a vision of What Could Have Been.", videoUrl: "https://drive.google.com/file/d/1CT7G34NuYPnzJK7tsOyk6RNVZ1CnHXHq/preview" },
-          { id: 208, name: "Episode 8 - Killing Is a Cycle", description: "A brewing storm fuels a series of startling transformations. Elsewhere, the spark of rebellion still burns.", videoUrl: "url3" },
-          { id: 209, name: "Episode 9 - The Dirt Under Your Nails", description: "Magic. Science. Power. Revenge. Destinies clash in an epic final chapter, igniting an all-out war.", videoUrl: "url3" },
+          { id: 208, name: "Episode 8 - Killing Is a Cycle", description: "A brewing storm fuels a series of startling transformations. Elsewhere, the spark of rebellion still burns.", videoUrl: "https://drive.google.com/file/d/1C_pG1r6gLisaphHPtZ7o4VYF2KwTnrfe/preview" },
+          { id: 209, name: "Episode 9 - The Dirt Under Your Nails", description: "Magic. Science. Power. Revenge. Destinies clash in an epic final chapter, igniting an all-out war.", videoUrl: "https://drive.google.com/file/d/1CsN-waPda-VBEZVaV9zEeWy2HeMoeyF5/preview" },
           
         ],
       }
