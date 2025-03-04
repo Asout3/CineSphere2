@@ -136,21 +136,21 @@ const SeriesMovieData = [
       }
     ],
   },
-  {
-    id: 3,
-    Sname: "Behind her Eyes",  
-    Genre: "Crime",  
-    img: BB,
-    Seasons: [
-      {
-        seasonNumber: 1,
-        episodes: [
-          { id: 101, name: "Episode 1", description: "Description of Episode 1", videoUrl: "url3" },
-        ],
-      },
-    ],
-  },
+  //{
+    //id: 3,
+    //Sname: "Behind her Eyes",  
+   // Genre: "Crime",  
+  //  img: BB,
+  //  Seasons: [
+  //    {
+     //   seasonNumber: 1,
+    //    episodes: [
+       //   { id: 101, name: "Episode 1", //description: "Description of Episode 1", //videoUrl: "url3" },
+        //],
+     // },
+    //],
+  //},
  
-];
+//];
 
 export default SeriesMovieData;
