@@ -151,6 +151,6 @@ const SeriesMovieData = [
     //],
   //},
  
-//];
+];
 
 export default SeriesMovieData;
