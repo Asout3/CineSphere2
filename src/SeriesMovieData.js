@@ -1,4 +1,5 @@
 import BB from './SeriesImages/BB.jpg';
+import Arcane from './SeriesImages/Arcane.jpeg';
 
 const SeriesMovieData = [
   {
@@ -99,8 +100,46 @@ const SeriesMovieData = [
   },
   {
     id: 2,
-    Sname: "Behind her Eyes",  // Corrected typo here
-    Genre: "Crime",  // Corrected typo here
+    Sname: "Arcane",  
+    Genre: "Steampunk Fantasy",  
+    img: Arcane,
+    Seasons: [
+      {
+        seasonNumber: 1,
+        episodes: [
+          { id: 101, name: "Episode 1 - Welcome to the Playground", description: "Orphaned sisters Vi and Powder bring trouble to Zaun's underground streets in the wake of a heist in posh Piltover.", videoUrl: "url3" },
+          { id: 102, name: "Episode 2 - Some Mysteries Are Better Left Unsolved", description: "Idealistic inventor Jayce attempts to harness magic through science despite his mentor's warnings; criminal kingpin Silco tests a powerful substance.", videoUrl: "url3" },
+          { id: 103, name: "Episode 3 - The Base Violence Necessary for Change", description: "An epic showdown between old rivals results in a fateful moment for Zaun; Jayce and Viktor risk it all for their research.", videoUrl: "url3" },
+          { id: 104, name: "Episode 4 - Happy Progress Day!", description: "With Piltover prospering from their tech, Jayce and Viktor weigh their next move; a familiar face reemerges from Zaun to wreak havoc.", videoUrl: "url3" },
+          { id: 105, name: "Episode 5 - Everybody Wants to Be My Enemy", description: "Rogue enforcer Caitlyn tours the undercity to track down Silco; Jayce puts a target on his back trying to root out Piltover corruption.", videoUrl: "url3" },
+          { id: 106, name: "Episode 6 - When These Walls Come Tumbling Down", description: "An eager protégé undermines his mentor on the council as a magical technology rapidly evolves; with authorities in pursuit, Jinx must face her past.", videoUrl: "url3" },
+          { id: 107, name: "Episode 7 - The Boy Savior", description: "Caitlyn and Vi meet an ally in Zaun's streets and head into a frenzied battle with a common foe; Viktor makes a dire decision.", videoUrl: "url3" },
+          { id: 108, name: "Episode 8 - Oil and Water", description: "Disowned heir Mel and her visiting mother trade combat tactics; Caitlyn and Vi forge an unlikely alliance; Jinx undergoes a startling change.", videoUrl: "url3" },
+          { id: 109, name: "Episode 9 - The Monster You Created", description: "Perilously close to war, the leaders of Piltover and Zaun reach an ultimatum; then, a fateful standoff changes both cities forever.", videoUrl: "url3" },
+          
+        ],
+      },
+      {
+        seasonNumber: 2,
+        episodes: [
+          { id: 201, name: "Episode 1 - Heavy is the Crown", description: "Vi and Caitlyn wrestle with how best to respond in the wake of a tragedy that claims lives and escalates tensions between the twin cities.", videoUrl: "url3" },
+          { id: 202, name: "Episode 2 - Watch It All Burn", description: "With Piltover ready for war, the Undercity weighs its options; Jinx lies low and plots her next move; a pivotal conversation takes place.", videoUrl: "url3" },
+          { id: 203, name: "Episode 3 - Finally Got the Name Right", description: "Caitlyn intensifies her hunt for Jinx while Ambessa accepts a fateful meeting. Meanwhile, changes in Zaun lead to a shocking discovery.", videoUrl: "url3" },
+          { id: 204, name: "Episode 4 - Paint the Town Blue", description: "As rumours of Jinx's return swirl, Ambessa pursues her target with renewed enthusiasm; Jinx and Sevika go undercover and into the belly of the beast.", videoUrl: "url3" },
+          { id: 205, name: "Episode 5 - Blisters and Bedrock", description: "Vi awakens to surprising news; an unsettling reunion isn't what it seems; Caitlyn uncovers the origins of Shimmer.", videoUrl: "url3" },
+          { id: 206, name: "Episode 6 - The Message Hidden Within the Pattern", description: "Healing comes from a familiar face - in an unfamiliar place. A stunning betrayal threatens to change countless lives.", videoUrl: "url3" },
+          { id: 207, name: "Episode 7 - Pretend Like It's the First Time", description: "A moment of darkness, a moment of light, and a vision of What Could Have Been.", videoUrl: "url3" },
+          { id: 208, name: "Episode 8 - Killing Is a Cycle", description: "A brewing storm fuels a series of startling transformations. Elsewhere, the spark of rebellion still burns.", videoUrl: "url3" },
+          { id: 209, name: "Episode 9 - The Dirt Under Your Nails", description: "Magic. Science. Power. Revenge. Destinies clash in an epic final chapter, igniting an all-out war.", videoUrl: "url3" },
+          
+        ],
+      }
+    ],
+  },
+  {
+    id: 3,
+    Sname: "Behind her Eyes",  
+    Genre: "Crime",  
     img: BB,
     Seasons: [
       {
