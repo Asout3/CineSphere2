@@ -1,7 +1,7 @@
 // MovieData.js
 import one from './Images/one.jpg';
 import two from './Images/two.jpeg';
-import BB from './SeriesImages/BB.jpg'
+import three from './Images/three.jpg';
 
 const MovieData = [
   {
@@ -26,11 +26,13 @@ const MovieData = [
   },
   {
     id: 3,
-    img: BB,
-    genre: 'Crime',
-    name: 'Breaking Bad',
-    description: 'A cancer patient turns to making meth...',
-    videoUrl: 'https://example.com/video3.mp4',
+    img: three,
+    genre: 'Action',
+    name: 'Avengement',
+    date: 'May 24, 2019',
+    long: '1h 28m',
+    description: 'A criminal breaks out of prison and embarks on a journey to exact revenge on those who have turned him into a serial killer.',
+    videoUrl: 'https://drive.google.com/file/d/1LYN301mCtMaPpahgwQAg--isxc_lJ-dC/preview',
   }
 ];
 
