@@ -29,12 +29,9 @@ const WatchDis = () => {
           <div className="absolute top-0 left-0 w-full h-full bg-transparent pointer-events-none"></div>
         </div>
         <div className='border-2 bg-gray-900/50 m-5 p-5 text-center text-white tracking-wide rounded-md'>
-          <h1>Title: {movie.name}</h1>
-          <h1>  </h1>
+          <h1 className="my-4">Title: {movie.name}</h1>
           <h1>Running time : {movie.long}</h1>
-          <h1>  </h1>
           <h1>Release date : {movie.date}</h1>
-          <h1>  </h1>
           <h1>Desciption : {movie.description}</h1>
         </div>
       </div>
