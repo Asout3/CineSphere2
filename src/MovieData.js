@@ -3,6 +3,8 @@ import one from './Images/one.jpg';
 import two from './Images/two.jpeg';
 import three from './Images/three.jpg';
 import flow from './Images/flow.jpg';
+import WLIT from './Images/weliveintime.jpg';
+
 
 const MovieData = [
   {
@@ -44,7 +46,37 @@ const MovieData = [
     long: '1h 25m',
     description: "Cat is a solitary animal, but as its home is devastated by a great flood, he finds refuge on a boat populated by various species, and will have to team up with them despite their differences.",
     videoUrl: 'https://drive.google.com/file/d/1LgzfZ8dkrWIWtWPjM4vRooNxIWSX8KXh/preview',
-   }
+   },
+   {
+    id: 5,
+    img: WLIT,
+    name: "We Live in Time",
+    genre: 'Romance',
+    date: "January 1, 2025",
+    long: '1h 47m',
+    description: "Almut and Tobias are brought together by a surprise encounter that changes their lives. As they embark on a path challenged by the limits of time, they learn to cherish each moment of their unconventional love story.",
+    videoUrl: 'https://drive.google.com/file/d/1MCjUsBq-fR6YeVM075x0bMmX2GPEx9-q/preview',
+   },
+ //{
+   // id: 4,
+   // img: three,
+   // name: "kiki",
+   // genre: 'hi',
+   // date: "jan 2, 2000",
+   // long: '1h 2m',
+   // description: "wow",
+   // videoUrl: 'url',
+ // }
+ //{
+   // id: 4,
+   // img: three,
+   // name: "kiki",
+   // genre: 'hi',
+   // date: "jan 2, 2000",
+   // long: '1h 2m',
+   // description: "wow",
+   // videoUrl: 'url',
+ // }
   //{
    // id: 4,
    // img: three,
