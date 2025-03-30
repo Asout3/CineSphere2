@@ -10,6 +10,8 @@ const MovieData = [
     name: 'The Brutalist',
     description: 'Escaping postwar Europe, a visionary architect comes to America to rebuild his life, his career, and his marriage. On his own in a strange new country, he settles in Pennsylvania, where a wealthy and prominent industrialist recognises his talent.',
     genre: 'Drama',
+    date: 'December 20, 2024',
+    long: '3h 35m',
     videoUrl: 'https://drive.google.com/file/d/1Ji31EnnUQPodZBskR1eUZofGkiHE9snM/preview' , // Use 'preview' link
   },
   {
