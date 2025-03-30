@@ -1,6 +1,6 @@
 // MovieData.js
 import one from './Images/one.jpg';
-import two from './Images/two.jpg';
+import two from './Images/two.jpeg';
 import BB from './SeriesImages/BB.jpg'
 
 const MovieData = [
