@@ -4,6 +4,8 @@ import two from './Images/two.jpeg';
 import three from './Images/three.jpg';
 import flow from './Images/flow.jpg';
 import WLIT from './Images/weliveintime.jpg';
+import CTRL from './Images/CTRL.jpg';
+import TG2 from './Images/TG2.jpg';
 
 
 const MovieData = [
@@ -57,26 +59,26 @@ const MovieData = [
     description: "Almut and Tobias are brought together by a surprise encounter that changes their lives. As they embark on a path challenged by the limits of time, they learn to cherish each moment of their unconventional love story.",
     videoUrl: 'https://drive.google.com/file/d/1MCjUsBq-fR6YeVM075x0bMmX2GPEx9-q/preview',
    },
- //{
-   // id: 4,
-   // img: three,
-   // name: "kiki",
-   // genre: 'hi',
-   // date: "jan 2, 2000",
-   // long: '1h 2m',
-   // description: "wow",
-   // videoUrl: 'url',
- // }
- //{
-   // id: 4,
-   // img: three,
-   // name: "kiki",
-   // genre: 'hi',
-   // date: "jan 2, 2000",
-   // long: '1h 2m',
-   // description: "wow",
-   // videoUrl: 'url',
- // }
+  {
+    id: 6,
+    img: CTRL,
+    name: "CTRL",
+    genre: 'Drama',
+    date: "October 4, 2024",
+    long: '1h 39m',
+    description: "Nella and Joe are the perfect influencer couple, but when he cheats on her, she turns to an AI app to erase him digitally from her life, only to discover that he has disappeared in real life as well.",
+    videoUrl: 'https://drive.google.com/file/d/1M0PUSmxO4OPq8bfSzo_ChLlVvK3ZxX-w/preview',
+   },
+  {
+    id: 7,
+    img: TG2,
+    name: "Gladiator II",
+    genre: 'Action',
+    date: "November 15, 2024",
+    long: '2h 28m',
+    description: "Years after witnessing the death of Maximus at the hands of his uncle, Lucius must enter the Colosseum after the powerful emperors of Rome conquer his home. With rage in his heart and the future of the empire at stake, he looks to the past to find the strength and honor needed to return the glory of Rome to its people.",
+    videoUrl: 'https://drive.google.com/file/d/1M40SaqSrTpE4vpoK5uro2dztpn0LRTEN/preview',
+  }
   //{
    // id: 4,
    // img: three,
