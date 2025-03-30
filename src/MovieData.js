@@ -77,7 +77,7 @@ const MovieData = [
     date: "November 15, 2024",
     long: '2h 28m',
     description: "Years after witnessing the death of Maximus at the hands of his uncle, Lucius must enter the Colosseum after the powerful emperors of Rome conquer his home. With rage in his heart and the future of the empire at stake, he looks to the past to find the strength and honor needed to return the glory of Rome to its people.",
-    videoUrl: 'https://drive.google.com/file/d/1M40SaqSrTpE4vpoK5uro2dztpn0LRTEN/preview',
+    videoUrl: 'https://drive.google.com/file/d/1M40SaqSrTpE4vpoK5uro2dztpn0LRTEN/view?usp=drivesdk',
   }
   //{
    // id: 4,
