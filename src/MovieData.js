@@ -17,10 +17,12 @@ const MovieData = [
   {
     id: 2,
     img: two,
-    name: 'Arcane',
-    genre: 'Drama',
-    description: 'A series based on the game League of Legends...',
-    videoUrl: 'https://example.com/video2.mp4',
+    name: 'Fight or Flight',
+    genre: 'Action',
+    date: 'May 9, 2025',
+    long: '1h 41m',
+    description: 'A mercenary is assigned a target on a flight. But when rival assassins board the plane, assassin and target are forced to team up.',
+    videoUrl: 'https://drive.google.com/file/d/1J_zFQs7l4_F8MeAp-LelY_ECHvBdnk1m/preview',
   },
   {
     id: 3,
