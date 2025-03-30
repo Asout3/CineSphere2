@@ -30,9 +30,8 @@ const WatchDis = () => {
         </div>
         <div className='border-2 bg-gray-900/50 m-5 p-5 text-center text-white tracking-wide rounded-md'>
           <h1>Title: {movie.name}</h1>
-          <h1>fasfdadaf</h1>
-          <h1>dasfafdafafdaf</h1>
-          <h1>fafdadfafdafadfdfsa</h1>
+          <h1>Desciption : {movie.description}</h1>
+          
         </div>
       </div>
       
