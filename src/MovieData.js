@@ -2,6 +2,7 @@
 import one from './Images/one.jpg';
 import two from './Images/two.jpeg';
 import three from './Images/three.jpg';
+import flow from './Images/flow.jpg';
 
 const MovieData = [
   {
@@ -33,7 +34,28 @@ const MovieData = [
     long: '1h 28m',
     description: 'A criminal breaks out of prison and embarks on a journey to exact revenge on those who have turned him into a serial killer.',
     videoUrl: 'https://drive.google.com/file/d/1LYN301mCtMaPpahgwQAg--isxc_lJ-dC/preview',
-  }
+  },
+  {
+    id: 4,
+    img: flow,
+    name: "Flow",
+    genre: 'Adventure',
+    date: "August 29, 2024",
+    long: '1h 25m',
+    description: "Cat is a solitary animal, but as its home is devastated by a great flood, he finds refuge on a boat populated by various species, and will have to team up with them despite their differences.",
+    videoUrl: 'https://drive.google.com/file/d/1LgzfZ8dkrWIWtWPjM4vRooNxIWSX8KXh/preview',
+   }
+  //{
+   // id: 4,
+   // img: three,
+   // name: "kiki",
+   // genre: 'hi',
+   // date: "jan 2, 2000",
+   // long: '1h 2m',
+   // description: "wow",
+   // videoUrl: 'url',
+ // }
+
 ];
 
 export default MovieData;
