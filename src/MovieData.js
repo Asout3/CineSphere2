@@ -7,10 +7,10 @@ const MovieData = [
   {
     id: 1,
     img: one,
-    name: 'እነ እገሌ',
-    description: 'A drama about troubled teens...',
+    name: 'The Brutalist',
+    description: 'Escaping postwar Europe, a visionary architect comes to America to rebuild his life, his career, and his marriage. On his own in a strange new country, he settles in Pennsylvania, where a wealthy and prominent industrialist recognises his talent.',
     genre: 'Drama',
-    videoUrl: 'https://www.youtube.com/embed/j0Tng4jdGNU?rel=0&modestbranding=1&showinfo=0' , // Use 'preview' link
+    videoUrl: 'https://drive.google.com/file/d/1Ji31EnnUQPodZBskR1eUZofGkiHE9snM/preview' , // Use 'preview' link
   },
   {
     id: 2,
