@@ -12,7 +12,7 @@ const FrontAmh = () => {
     <>
     <div className="m-5 p-5 border-2 border-white rounded-lg bg-gray-900/50">
   {/* Section Header */}
-  <h2 className="text-2xl font-semibold mb-5 text-center text-white">Amharic Movie List with Addition</h2>
+  <h2 className="text-2xl font-semibold mb-5 text-center text-white">Amharic Movies List</h2>
 
   {/* Movie Grid */}
   <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
@@ -29,7 +29,7 @@ const FrontAmh = () => {
 
   {/* View More Link */}
   <Link to='/AmharicMovie/see_more'>
-    <div className='items-center m-1 p-2 bg-black mt-4 rounded relative text-center text-white'>
+    <div className='items-center m-1 p-2 bg-[rgba(255,255,255,0.16)] mt-4 rounded relative text-center text-white'>
       See more
     </div>
   </Link>

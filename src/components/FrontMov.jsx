@@ -29,7 +29,7 @@ const FrontMov = () => {
 
   {/* View Full Button */}
   <Link to="/Movies/see_more">
-    <div className="mt-6 bg-black text-white py-2 px-4 rounded-lg text-center cursor-pointer ">
+    <div className="mt-6 bg-[rgba(255,255,255,0.16)] text-white py-2 px-4 rounded-lg text-center cursor-pointer ">
       See more
     </div>
   </Link>

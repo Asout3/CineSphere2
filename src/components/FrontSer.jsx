@@ -29,7 +29,7 @@ const FrontSer = () => {
 
   {/* See More Button */}
   <Link to='/SeriesMovies/see_more'>
-    <div className="items-center m-1 p-2 bg-black mt-4 rounded relative text-center text-white">
+    <div className="items-center m-1 p-2 bg-[rgba(255,255,255,0.16)] mt-4 rounded relative text-center text-white">
       See More
     </div>
   </Link>
