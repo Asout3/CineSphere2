@@ -6,6 +6,7 @@ import flow from './Images/flow.jpg';
 import WLIT from './Images/weliveintime.jpg';
 import CTRL from './Images/CTRL.jpg';
 import TG2 from './Images/TG2.jpg';
+import Gorge from './Images/gorge.jpg';
 
 
 const MovieData = [
@@ -78,7 +79,18 @@ const MovieData = [
     long: '2h 28m',
     description: "Years after witnessing the death of Maximus at the hands of his uncle, Lucius must enter the Colosseum after the powerful emperors of Rome conquer his home. With rage in his heart and the future of the empire at stake, he looks to the past to find the strength and honor needed to return the glory of Rome to its people.",
     videoUrl: 'https://drive.google.com/file/d/1M40SaqSrTpE4vpoK5uro2dztpn0LRTEN/preview',
+  },
+  {
+   id: 8,
+   img: Gorge,
+   name: "The Gorge",
+   genre: 'Action',
+   date: "February 14, 2025",
+   long: '2h 7m',
+   description: "Two highly-trained operatives are appointed to posts in guard towers on opposite sides of a vast and highly classified gorge, protecting the world from a mysterious evil that lurks within. They work together to keep the secret in the gorge.",
+   videoUrl: 'https://drive.google.com/file/d/1MOiGqIBiD0ljSbyrjFwFPf1f4_xbxig7/preview',
   }
+
   //{
    // id: 4,
    // img: three,
