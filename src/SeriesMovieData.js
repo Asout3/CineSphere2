@@ -1,5 +1,6 @@
 import BB from './SeriesImages/BB.jpg';
 import Arcane from './SeriesImages/Arcane.jpeg';
+import Ro from './SeriesImages/Robot.jpg'
 
 const SeriesMovieData = [
   {
@@ -138,9 +139,9 @@ const SeriesMovieData = [
   },
     {
     id: 3,
-    Sname: "Behind her Eyes",  
-    Genre: "Crime",  
-    img: BB,
+    Sname: "Mr. Robot",  
+    Genre: "Thriller",  
+    img: Ro,
     Seasons: [
      {
        seasonNumber: 1,
@@ -160,7 +161,18 @@ const SeriesMovieData = [
       {
         seasonNumber: 2,
           episodes: [
-          { id: 101, name: "Episode 1", description: "Description of Episode 1", videoUrl: "url3" },
+          { id: 201, name: "Episode 1 - eps2.0unm4sk-pt1.tc", description: "One month later and five/nine has changed the world. With Elliot in seclusion, Arlene takes the lead and fsociety delivers malicious payload.", videoUrl: "https://drive.google.com/file/d/1FNzjOBYHZlZEO5MHLifinDQduUkxel_Q/preview" },
+          { id: 202, name: "Episode 2 - eps2.0_unm4sk-pt2.tc", description: "Angela is happy at Evil Corp, Tyrell is missing, Joanna has a new boyfriend, Dom leads an FBI investigation into five/nine, and Elliot demands answers.", videoUrl: "https://drive.google.com/file/d/1FNzjOBYHZlZEO5MHLifinDQduUkxel_Q/preview" },
+          { id: 203, name: "Episode 3 - eps2.1_k3rnel-pan1c.ksd", description: "Elliot is determined to beat Mr. Robot, but the task proves difficult; Angela gets a view behind the scenes at Evil Corp.", videoUrl: "https://drive.google.com/file/d/1FHLT4JmsAiXADVizjF9WWhFwAcy8VZSx/preview" },
+          { id: 204, name: "Episode 4 - eps2.2_init_1.asec", description: "Elliot befriends Ray, hoping he can finally delete Mr. Robot; Dom makes a discovery; Darlene considers whether the FBI or Dark Army are the bigger threat.", videoUrl: "https://drive.google.com/file/d/1FEJc9yBdfzJAz11mZUWL7VufbD6X5Kor/preview" },
+          { id: 205, name: "Episode 5 - eps2.3logic-b0mb.hc", description: "Elliot is unable to quit the game, Dom and the FBI travel to China to investigate five/nine, Joanna is haunted, and Darlene asks Angela for help.", videoUrl: "https://drive.google.com/file/d/1F5TRc0emv1ipCR_aTMdWkS1WiayXTAJW/preview" },
+          { id: 206, name: "Episode 6 - eps2.4m4ster-s1ave.aes", description: "Mr Robot tries to prove to Elliot that he can be useful, while Darlene and Angela's plan does not go as expected.", videoUrl: "https://drive.google.com/file/d/1F5LuHwAQucyCwYRth2Eux7tGzedmjQaB/preview" },
+          { id: 207, name: "Episode 7 - eps2.5h4ndshake.sme", description: "Elliot and Mr Robot agree to play face-up from now on. After an anonymous tip from Elliot, Ray goes to the police on the net. Meanwhile, Angela manages to penetrate deeper and deeper into the structures of E-Corp.", videoUrl: "https://drive.google.com/file/d/1FaHrNpIUKm1QrMXP575NqMZpuf-gp8ht/preview" },
+          { id: 208, name: "Episode 8 - eps2.6_succ3ss0r.p12", description: "The fsociety publishes secret FBI recordings revealing illegal activities of the organisation. The group involuntarily becomes kidnappers of an E-Corp lawyer who is ultimately even killed.", videoUrl: "https://drive.google.com/file/d/1FSlmkw2C45TGqWOwm3O0k6cCuruMnMS6/preview" },
+          { id: 209, name: "Episode 9 - eps2.7_init_5.fve", description: "Angela wants more from Evil Corp, Dark Army's allegiance is in question, and Elliot and Darlene seek answers.", videoUrl: "https://drive.google.com/file/d/1Fa2OzPl_KUaMVdbL3WHrw7kUE5t5mf1A/preview" },
+          { id: 210, name: "Episode 10 - eps2.8h1dden-pr0cess.axx", description: "Elliot wonders if Mr Robot has been lying to him, Darlene attempts to do the right thing, and Dom and the FBI get closer.", videoUrl: "https://drive.google.com/file/d/1FU3ZSAv3MAguEGKPQZmIqASRCEVDCHHv/preview" },
+          { id: 211, name: "Episode 11 - eps2.9pyth0n-pt1.p7z", description: "Angela makes a surprising acquaintance, while Elliot does the same. Dom begins to see the true scope of things.", videoUrl: "https://drive.google.com/file/d/1FR-4HWMov4oZjiCg40sccTKt4oGv-SMu/preview" },
+          { id: 212, name: "Episode 12 - eps2.9pyth0n-pt1.p7z; eps2.9pyth0n-pt2.p7z Part 2", description: "Angela makes an acquaintance, Darlene realises she is in too deep, and an old friend reveals everything to Elliot.", videoUrl: "https://drive.google.com/file/d/1FOXtcPhiY4xkmoFkAHbU3-UOOFqCIRf3/preview" },
         ],
       }
     ],
