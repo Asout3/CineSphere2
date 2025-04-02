@@ -174,6 +174,21 @@ const SeriesMovieData = [
           { id: 211, name: "Episode 11 - eps2.9pyth0n-pt1.p7z", description: "Angela makes a surprising acquaintance, while Elliot does the same. Dom begins to see the true scope of things.", videoUrl: "https://drive.google.com/file/d/1FR-4HWMov4oZjiCg40sccTKt4oGv-SMu/preview" },
           { id: 212, name: "Episode 12 - eps2.9pyth0n-pt1.p7z; eps2.9pyth0n-pt2.p7z Part 2", description: "Angela makes an acquaintance, Darlene realises she is in too deep, and an old friend reveals everything to Elliot.", videoUrl: "https://drive.google.com/file/d/1FOXtcPhiY4xkmoFkAHbU3-UOOFqCIRf3/preview" },
         ],
+      }, 
+      {
+        seasonNumber: 3,
+        episodes: [
+          { id: 301, name: "Episode 1 - eps3.0 power-saver-mode.h", description: "Elliot figures out his mission and requires help from Angela. Darlene is concerned about them emerging clean.", videoUrl: "https://drive.google.com/file/d/1G4yabc5GNxY_MJDsXsCMDzLyWziRldpX/preview" },
+          { id: 302, name: "Episode 2 - eps3.1undo.gz", description: "Elliot becomes encouraged trying to undo five/nine, Darlene gets stuck between a rock and a hard place, and Mr Robot ignites a panic.", videoUrl: "https://drive.google.com/file/d/1G5V1j3yeZ9OEgWrVvgYTG3dqqYbtwxFY/preview" },
+          { id: 303, name: "Episode 3 - eps3.2_legacy.so", description: "Former E Corp executive Tyrell Wellick returns. On the night of the Five/Nine hack Elliot and Tyrell talk about their plans before Tyrell travels out into the wilderness to live a solitary life.", videoUrl: "https://drive.google.com/file/d/1G4dqKRYk9_5CzinJkTaCxR7IVclCIH6w/preview" },
+          { id: 304, name: "Episode 4 - eps3.3_metadata.par2", description: "Darlene takes the lookout as Elliot chases himself, Dom faces a dangerous situation, which proves difficult to escape. Angela turns extremely savage, while the Swede isn't needed by Mr Robot.", videoUrl: "https://drive.google.com/file/d/1G0UtOdIZ3lxI1WEO2Jdt5VcZUf9gB79B/preview" },
+          { id: 305, name: "Episode 5 - eps3.4 runtime-error.r00", description: "The United Nations prepares to vote on whether China can annex the Congo, the day Whiterose is set for the launch of stage two. Elliot continues to reel from his lost weekend, as E Corp is thrown into chaos. Darlene tries to assist as Elliot flees.", videoUrl: "https://drive.google.com/file/d/1FylzzmkwvNH_MvpUS1rH26vdKMS6x9K1/preview" },
+          { id: 306, name: "Episode 6 - eps3.5kill-pr0cess.inc", description: "Elliot realises Wellick is hiding in the Wheelbarrow restaurant, and informs Darlene before running to the booby-trapped building. Dom gets tired of the red tape, and Tyrell has a great new plan.", videoUrl: "https://drive.google.com/file/d/1Fuyy9uegmaB0QUjZRWyEa8lPaxHdjO86/preview" },
+          { id: 307, name: "Episode 7 - eps3.6_fredrick+tanya.chk", description: "Zhang punishes Price for disobeying, and not controlling Angela and the lawsuit. Leon forces Mobley and Trenton help bury a body. Mr Robot demands answers for the truth, the threat of the FBI closes in, and Angela hits the rewind button.", videoUrl: "https://drive.google.com/file/d/1G9uIwlF4CSLptX8VBPZTaMZfSgR2FEVO/preview" },
+          { id: 308, name: "Episode 8 - eps3.7_dont-delete-me.ko", description: "To avoid being in the front line, Elliot tries to get ghosted. Meanwhile, tensions rise as it is the day of all days. Elliot wants to pay his respects to Trenton and Mobley.", videoUrl: "https://drive.google.com/file/d/1GL5U0Q1p2rE1tMYSCBNphK-byP4lnehc/preview" },
+          { id: 309, name: "Episode 9 - eps3.8_stage3.torrent", description: "Recognising a familiar face, Elliot trolls a former ally. Meanwhile, Mr Robot leaves a cryptic text, and Tyrell receives a new command.", videoUrl: "https://drive.google.com/file/d/1GTGTQZFeNfJkR4-YPsrmH3c7OY3_23tu/preview" },
+          { id: 310, name: "Episode 10 - shutdown -r", description: "Elliot's attempt at rescuing Darlene goes haywire, and Mr Robot must make the difficult decision on whether to step up or step back.", videoUrl: "https://drive.google.com/file/d/1GLFfWurf1DlpPNG-alTbSdpM-YBNBeH6/preview" }
+        ],
       }
     ],
   },
