@@ -136,6 +136,35 @@ const SeriesMovieData = [
       }
     ],
   },
+    {
+    id: 3,
+    Sname: "Behind her Eyes",  
+    Genre: "Crime",  
+    img: BB,
+    Seasons: [
+     {
+       seasonNumber: 1,
+        episodes: [
+         { id: 101, name: "Episode 1 - eps1.0 hellofriend.mov", description: "A cybersecurity tech meets the leader of hacker group fsociety, Mr. Robot; a robot may be behind the biggest company in the world getting hacked.", videoUrl: "https://drive.google.com/file/d/1EBDIto7WYA9wp-0Y1ppH7f6eoBV7scua/preview" },
+         { id: 102, name: "Episode 2 - eps1.1_ones-and-zer0es.mpeg", description: "Elliot is confronted by a difficult decision: accepting a job offer from a major company or joining 'fsociety`, an exclusive group of hackers.", videoUrl: "https://drive.google.com/file/d/1EGdazu4vA6LBNk108SHrtB_oMgrYQVEI/preview" },
+         { id: 103, name: "Episode 3 - D3bug.mkv", description: "Elliot decides to distance himself from 'fsociety`, but events conspire to pull him back in. Tyrell resorts to dirty tactics to get what he wants.", videoUrl: "https://drive.google.com/file/d/1ESO3xAEsKV68Jytx8hbU4ODq2EzRKXDn/preview" },
+         { id: 104, name: "Episode 4 - da3m0ns.mp4", description: "Elliot suffers severe withdrawal symptoms, jeopardising his plan to deal with the Steel Mountain back-ups by overriding a thermostat.", videoUrl: "https://drive.google.com/file/d/1EkTRr3ZxC_ickmj6Ml-3O_3_9FKtGcPz/preview" },
+         { id: 105, name: "Episode 5 - eps1.4_3xpl0its.wmv", description: "Elliot meets Tyrell, who knows the CTO was framed but has no interest in telling. The Dark Army no longer seem willing to attack the Chinese back-ups.", videoUrl: "https://drive.google.com/file/d/1EYO-4Ih7Ewz077AD3JIkbvGzg3JUEei5/preview" },
+         { id: 106, name: "Episode 6 - br4ve-trave1er.asf", description: "Vera's brother holds Shayla hostage, forcing Elliot to engineer Vera's escape from prison. Tyrell is angered when he learns that Sharon told Scott everything.", videoUrl: "https://drive.google.com/file/d/1EhvF9cMwg2bgwesbnaSYYtZDcCqnqdf-/preview" },
+         { id: 107, name: "Episode 7 - eps1.6_v1ew-s0urce.flv", description: "Angela makes a deal with the devil. Elliot remembers his first meeting with Shayla, and the fish she gave him. Darlene arranges to meet Whiterose.", videoUrl: "https://drive.google.com/file/d/1Eepf8GJM4GpLnrKyniXDobwZWSqL-xZi/preview" },
+         { id: 108, name: "Episode 8 - eps1.7_wh1ter0se.m4v", description: "Elliot prepares to meet representatives of the Dark Army, but his triumphs are dampened by personal problems that reveal a shocking secret.", videoUrl: "https://drive.google.com/file/d/1F2Rk9A8Ifu_DOVDCsy6kh7GLIUqHiiYT/preview" },
+         { id: 109, name: "Episode 9 - eps1.8_m1rr0r1ng.qt", description: "Elliot reels from his shocking discovery, and a trip to his old family home leads to more revelations. The fsociety masterplan nears its conclusion.", videoUrl: "https://drive.google.com/file/d/1F2vKLTc4EtoS2b3ZiEDov-XAnn9WDbmG/preview" },
+         { id: 110, name: "Episode 10 - eps1.9_zer0-day.avi", description: "Following fsociety's hack, the world is thrown into chaos. The group cover their tracks as Elliot is forced to confront a different future.", videoUrl: "https://drive.google.com/file/d/1F19xac3-MrrueT9nrzRWy7TXQ7gZZrpN/preview" },
+        ],
+      },
+      {
+        seasonNumber: 2,
+          episodes: [
+          { id: 101, name: "Episode 1", description: "Description of Episode 1", videoUrl: "url3" },
+        ],
+      }
+    ],
+  },
   //{
     //id: 3,
     //Sname: "Behind her Eyes",  
