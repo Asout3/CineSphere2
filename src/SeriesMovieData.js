@@ -189,6 +189,24 @@ const SeriesMovieData = [
           { id: 309, name: "Episode 9 - eps3.8_stage3.torrent", description: "Recognising a familiar face, Elliot trolls a former ally. Meanwhile, Mr Robot leaves a cryptic text, and Tyrell receives a new command.", videoUrl: "https://drive.google.com/file/d/1GTGTQZFeNfJkR4-YPsrmH3c7OY3_23tu/preview" },
           { id: 310, name: "Episode 10 - shutdown -r", description: "Elliot's attempt at rescuing Darlene goes haywire, and Mr Robot must make the difficult decision on whether to step up or step back.", videoUrl: "https://drive.google.com/file/d/1GLFfWurf1DlpPNG-alTbSdpM-YBNBeH6/preview" }
         ],
+      },
+      {
+        seasonNumber: 4,
+        episodes: [
+          { id: 401, name: "Episode 1 - 401 Unauthorized", description: "As the Christmas season arrives, Elliot and Mr Robot make a return. Meanwhile, Darlene struggles with real issues, Tyrell is bored, and Dom's paranoia grows.", videoUrl: "https://drive.google.com/file/d/1Gj2K3_F5hiSfJp4kZJyZRLD5rhODO_7F/preview" },
+          { id: 402, name: "Episode 2 - 402 Payment Required", description: "Elliot and Darlene come together; Dom has a bad feeling about Dark Amy; Price has answers that could help.", videoUrl: "https://drive.google.com/file/d/1GiPR8u4d4f-Wr3sYL8898JW7JHC0mn4o/preview" },
+          { id: 403, name: "Episode 3 - 403 Forbidden", description: "Elliot gets owned by his own hack. Meanwhile, an old foe awaits and Whiterose has some intense feelings.", videoUrl: "https://drive.google.com/file/d/1GgXirG6xbabGNqkuaw1CnKipTPZ2yF1X/preview" },
+          { id: 404, name: "Episode 4 - 404 Not Found", description: "Elliot, Mr. Robot and Tyrell walk in a winter wonderland. Darlene meets a bad Santa. Dom goes on the prowl.", videoUrl: "https://drive.google.com/file/d/1Gem3-RYM6zJUxPYW5e79KIEwp0lo5rKq/preview" },
+          { id: 405, name: "Episode 5 - 405 Method Not Allowed", description: "Coleção Oi/Coleção Oi Series/Mr. Robot - Dom não consegue curtir no Natal. Darelliot enrola. Krista falta. Quietos, por favor, o episódio vai começar.", videoUrl: "https://drive.google.com/file/d/1GbeuvYnv3QD2faMUdAPpJ31PHJpekSjY/preview" },
+          { id: 406, name: "Episode 6 - 406 Not Acceptable", description: "Elliot blackmails Olivia to make an important phone call, Dom struggles when she's ordered to do something distressing, Vera gets information out of Krista, and Whiterose wants Elliot brought directly to her.", videoUrl: "https://drive.google.com/file/d/1GbBoC4K3SAprf_nzBPsMOF6p4kE94Fc5/preview" },
+          { id: 407, name: "Episode 7 - 407 Proxy Authentication Required", description: "Elliot discovers a few hidden truths about his past and Mr Robot, and makes a significant mental breakthrough.", videoUrl: "https://drive.google.com/file/d/1GvgMxx902DJ0SctyQ0GnNpl5C-IMux4J/preview" },
+          { id: 408, name: "Episode 8 - 408 Request Timeout", description: "Elliot feels incredibly shaken up in his current situation. Meanwhile Janice wants all the details she can get.", videoUrl: "https://drive.google.com/file/d/1H6GJVjRsar9cxYFXuMhoWIYq79u4Qnld/preview" },
+          { id: 409, name: "Episode 9 - 409 Conflict", description: "Fsociety faces off against the Deus group as Elliot and Whiterose have their much-anticipated showdown.", videoUrl: "https://drive.google.com/file/d/1Gz88B1DtlQXgAiW18q-aOcaPp7zJUXyQ/preview" },
+          { id: 410, name: "Episode 10 - 410 Gone", description: "Darlene tries to persuade Dominique to run away from New York with her and Elliot to hide from the Dark Army.", videoUrl: "https://drive.google.com/file/d/1H1Fr_4LyTuxqWR5pGhcN2g31w37AJyxZ/preview" },
+          { id: 411, name: "Episode 11 - eXit", description: "Elliot decides that enough is enough and goes to the Washington Township power plant to finish things.", videoUrl: "https://drive.google.com/file/d/1H8kNo7G1blxL_1aGhnb_sZx63uZAgaXK/preview" },
+          { id: 412, name: "Episode 12 - Whoami", description: "Elliot wakes up in an abandoned lot following the explosion at the Washington Township plant, which is no longer there.", videoUrl: "https://drive.google.com/file/d/1HKqZSkvFNBaeGmJRVdPAPkeHTfBSwxrB/preview" },
+          { id: 413, name: "Episode 13 - Hello, Elliot", description: "The delusion begins to slip when Mr. Robot reveals a truth that Elliot doesn't accept, he heads to Coney Island looking for answers.", videoUrl: "https://drive.google.com/file/d/1HCqKnb-642dh9ob4mjIsxWgxZIz_-_wL/preview" },
+        ],
       }
     ],
   },
