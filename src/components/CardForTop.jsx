@@ -4,8 +4,8 @@ import { useNavigate } from 'react-router-dom'
 const CardForTop = () => {
     const navigate = useNavigate();
    
-    function euphoria() {
-        navigate("/movie/1");1
+    function bb() {
+        navigate("/series/Breaking Bad/season/1/episode/101");1
     }
 
     function euphoria() {
@@ -52,6 +52,66 @@ const CardForTop = () => {
             this is top movies we really recomend you to Watch
         </div>
 
+    <button className="w-4/5 block m-0 mx-auto relative rounded" onClick={bb} > 
+        <div className="border-2 border-white m-2 my-3 sm:mx-4 p-3 text-white flex justify-between rounded-md bg-gray-700">
+            <h1 className="text-left">Breaking Bad</h1>
+            <h1 className="text-right">9/10</h1>
+        </div>        
+    </button> 
+    <button className="w-4/5 block m-0 mx-auto relative rounded" onClick={euphoria} > 
+        <div className="border-2 border-white m-2 my-3 sm:mx-4 p-3 text-white flex justify-between rounded-md bg-gray-700">
+            <h1 className="text-left">Breaking Bad</h1>
+            <h1 className="text-right">9/10</h1>
+        </div>        
+    </button> 
+    <button className="w-4/5 block m-0 mx-auto relative rounded" onClick={euphoria} > 
+        <div className="border-2 border-white m-2 my-3 sm:mx-4 p-3 text-white flex justify-between rounded-md bg-gray-700">
+            <h1 className="text-left">Breaking Bad</h1>
+            <h1 className="text-right">9/10</h1>
+        </div>        
+    </button> 
+    <button className="w-4/5 block m-0 mx-auto relative rounded" onClick={euphoria} > 
+        <div className="border-2 border-white m-2 my-3 sm:mx-4 p-3 text-white flex justify-between rounded-md bg-gray-700">
+            <h1 className="text-left">Breaking Bad</h1>
+            <h1 className="text-right">9/10</h1>
+        </div>        
+    </button> 
+    <button className="w-4/5 block m-0 mx-auto relative rounded" onClick={euphoria} > 
+        <div className="border-2 border-white m-2 my-3 sm:mx-4 p-3 text-white flex justify-between rounded-md bg-gray-700">
+            <h1 className="text-left">Breaking Bad</h1>
+            <h1 className="text-right">9/10</h1>
+        </div>        
+    </button> 
+    <button className="w-4/5 block m-0 mx-auto relative rounded" onClick={euphoria} > 
+        <div className="border-2 border-white m-2 my-3 sm:mx-4 p-3 text-white flex justify-between rounded-md bg-gray-700">
+            <h1 className="text-left">Breaking Bad</h1>
+            <h1 className="text-right">9/10</h1>
+        </div>        
+    </button> 
+    <button className="w-4/5 block m-0 mx-auto relative rounded" onClick={euphoria} > 
+        <div className="border-2 border-white m-2 my-3 sm:mx-4 p-3 text-white flex justify-between rounded-md bg-gray-700">
+            <h1 className="text-left">Breaking Bad</h1>
+            <h1 className="text-right">9/10</h1>
+        </div>        
+    </button> 
+    <button className="w-4/5 block m-0 mx-auto relative rounded" onClick={euphoria} > 
+        <div className="border-2 border-white m-2 my-3 sm:mx-4 p-3 text-white flex justify-between rounded-md bg-gray-700">
+            <h1 className="text-left">Breaking Bad</h1>
+            <h1 className="text-right">9/10</h1>
+        </div>        
+    </button> 
+    <button className="w-4/5 block m-0 mx-auto relative rounded" onClick={euphoria} > 
+        <div className="border-2 border-white m-2 my-3 sm:mx-4 p-3 text-white flex justify-between rounded-md bg-gray-700">
+            <h1 className="text-left">Breaking Bad</h1>
+            <h1 className="text-right">9/10</h1>
+        </div>        
+    </button> 
+    <button className="w-4/5 block m-0 mx-auto relative rounded" onClick={euphoria} > 
+        <div className="border-2 border-white m-2 my-3 sm:mx-4 p-3 text-white flex justify-between rounded-md bg-gray-700">
+            <h1 className="text-left">Breaking Bad</h1>
+            <h1 className="text-right">9/10</h1>
+        </div>        
+    </button> 
     <button className="w-4/5 block m-0 mx-auto relative rounded" onClick={euphoria} > 
         <div className="border-2 border-white m-2 my-3 sm:mx-4 p-3 text-white flex justify-between rounded-md bg-gray-700">
             <h1 className="text-left">Breaking Bad</h1>
